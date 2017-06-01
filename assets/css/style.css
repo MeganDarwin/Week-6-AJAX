@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+/*background-color:*/
+font-family: "Times New Roman", Times, serif;
+font-size: 16px;
+}
+
+.gif-button {
+	color: white;
+	font-weight: bold;
+	background-color: #5F9EA0;
+	padding: 5px;
+	margin: 1px;
+	border: 1px;
+	border-color: black;
+	border-style: none;
+	})
+
+#input-form {
+	margin: 10px;
+}
+
+#add-gif {
+	padding: 5px;
+}
+
+#gif-input {
+	padding: 10px;
+}
+
+images {
+	float: left;
+}
+
+#gif-area {
+	margin: 5px;
+}
